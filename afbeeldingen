@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+    
+    <button type="button"><a href="Knoppen.html" class="btn danger">Terug naar de knoppenpagina</a></button>
+     <button type="button"><a href="index.html" class="btn danger">Terug naar de hoofdpagina</a></button>
+       
+ <picture>
+ <h3> Ramos</h3>
+ <img src="ramos.jpg">
+ <h3> Ronaldo</h3>
+ <img src="ronaldo.jpg"width="500">
+ <h3> neymar</h3> 
+ <img src="neymar.jpg">         
+</html>
